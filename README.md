@@ -209,7 +209,6 @@ The Pose model shows overfitting to the training data but due to camera intrinsi
 
 Here is just a result from the test dataset showcasing it's combined performance.
 
-<div style="display: flex; justify-content: center; gap: 20px;">
 
 <figure style="text-align: center;">
     <img src="./assets/bbox_pred.png" alt="Bbox pred" />
@@ -220,5 +219,3 @@ Here is just a result from the test dataset showcasing it's combined performance
     <img src="./assets/6dof_pose_pred.png" alt="6DoF pred" />
     <figcaption>Figure 12: Original Depth Image.</figcaption>
 </figure>
-
-</div>
