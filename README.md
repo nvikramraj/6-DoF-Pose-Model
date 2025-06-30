@@ -195,9 +195,9 @@ The training curves show rapid convergence—most gains occur within the first t
   <figcaption>Figure 9: Object Detection Model Loss and Map Plots.</figcaption>
 </figure>
 
-### Pose Predition model
+### Pose Prediction model
 
-The Pose model shows overfitting to the training data but due to camera intrinsics data constrains, I though it was futile to continue improving the model as the dataset itself is not correctly made. I might come back to this project to get the correct 6 Degrees of Freedom and retrain to validate if this is a suitable model to predict 6DoF.
+The Pose model shows overfitting to the training data but due to camera intrinsics data constraints, I thought it was futile to continue improving the model as the dataset itself is not correctly made. I might come back to this project to get the correct 6 Degrees of Freedom and retrain to validate if this is a suitable model to predict 6DoF.
 
 <figure style="text-align: center;">
   <img src="./assets/loss_plot_pose.png" alt="Loss plot pose" />
@@ -207,7 +207,7 @@ The Pose model shows overfitting to the training data but due to camera intrinsi
 
 ### Combined Results
 
-Here is just a result from the test dataset showcasing it's combined performance.
+Here is just a result from the test dataset showcasing it is a combined performance.
 
 
 <figure style="text-align: center;">
